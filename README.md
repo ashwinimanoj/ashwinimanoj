@@ -1,4 +1,13 @@
 ### Hi there 👋
+I am Ashwini. I work as a Software Developer. 
+
+Right now I am working on with Go.
+<img alt="gopher" height="25" src="assets/gopher.svg">
+
+Oh and I am a Hufflepuff!
+ <img alt="hufflepuff" height="25" src="assets/hufflepuff.png">
+
+
 [![Spotify](https://spotify-now-playing-nu-five.vercel.app/api/spotify)](https://open.spotify.com/user/ashwini.manoj)
 
 <!--
