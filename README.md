@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Ashwini. I work as a Software Developer. 
 
-Right now I am working on with Go.
+Right now I am working with Go.
 <img alt="gopher" height="25" src="https://raw.githubusercontent.com/ashwinimanoj/ashwinimanoj/7df405b4f93ca028a06e876f515acb233392a1ef/assets/gopher.svg">
 
 Oh and I am a Hufflepuff!
