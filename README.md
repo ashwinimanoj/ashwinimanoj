@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Spotify](https://spotify-now-playing-nu-five.vercel.app/api/spotify)](https://open.spotify.com/user/ashwini.manoj)
 
 <!--
 **ashwinimanoj/ashwinimanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
