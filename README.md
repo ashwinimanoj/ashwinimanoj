@@ -8,6 +8,7 @@ Oh and I am a Hufflepuff!
  <img alt="hufflepuff" height="50" src="https://github.com/ashwinimanoj/ashwinimanoj/blob/master/assets/hufflepuff.png?raw=true">
 
 I am listening to 
+
 [![Spotify](https://spotify-now-playing-nu-five.vercel.app/api/spotify)](https://open.spotify.com/user/ashwini.manoj)
 
 <!--
